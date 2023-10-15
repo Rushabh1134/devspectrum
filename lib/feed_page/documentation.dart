@@ -1,4 +1,3 @@
-import 'package:devspectrum/feed_page/feed_page.dart';
 import 'package:devspectrum/feed_page/screensshots.dart';
 import 'package:flutter/material.dart';
 
