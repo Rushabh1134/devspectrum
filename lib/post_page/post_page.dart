@@ -10,7 +10,7 @@ class PostPage extends StatefulWidget {
 class _PostPageState extends State<PostPage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: Center(
         child: Text('post'),
       ),
